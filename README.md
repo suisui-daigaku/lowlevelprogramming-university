@@ -62,9 +62,13 @@ Let me introduce several books that I've read. They are commonly used as textboo
   * _Computer Systems: A Programmer's Perspective_
   * _Computer Organization and Design, Fourth Edition: The Hardware/Software Interface_
 
+
 | Computer Architecture  | Computer Systems  | Computer Organization and Design  |
 |---|---|---|
-|   |   |   | 
+| A Quantitative Approach  |  A Programmer's Perspective | The Hardware/Software Interface  | 
+
+
+_Computer Architecture 参考时间_: **每本2周** (小红书大部分人在2周内读完)
 
 
 * Operating Systems
