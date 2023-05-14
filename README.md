@@ -61,6 +61,12 @@ Let me introduce several books that I've read. They are commonly used as textboo
   * _Computer Architecture, Fifth Edition: A Quantitative Approach_
   * _Computer Systems: A Programmer's Perspective_
   * _Computer Organization and Design, Fourth Edition: The Hardware/Software Interface_
+
+| Computer Architecture  | Computer Systems  | Computer Organization and Design  |
+|---|---|---|
+|   |   |   | 
+
+
 * Operating Systems
   * The Magic Garden Explained: The Internals of UNIX System V Release 4 an Open Systems Design
   * The Design of the UNIX Operating System
