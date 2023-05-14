@@ -61,14 +61,16 @@ Let me introduce several books that I've read. They are commonly used as textboo
   * _Computer Architecture, Fifth Edition: A Quantitative Approach_
   * _Computer Systems: A Programmer's Perspective_
   * _Computer Organization and Design, Fourth Edition: The Hardware/Software Interface_
-
+  * _The Elements of Computing Systems, second edition: Building a Modern Computer from First Principles_
 
 | Computer Architecture  | Computer Systems  | Computer Organization and Design  |
 |---|---|---|
 | A Quantitative Approach  |  A Programmer's Perspective | The Hardware/Software Interface  | 
-
-
-_Computer Architecture 参考时间_: **每本2周** (小红书大部分人在2周内读完)
+|  ![image](https://github.com/suisui-daigaku/lowlevelprogramming-university/assets/20805657/09ced5ac-65a3-43cc-ac93-87834c15f70b)  | ![image](https://github.com/suisui-daigaku/lowlevelprogramming-university/assets/20805657/d512172b-848b-4184-a2ad-d668bcfbab96)
+  | | 
+ 
+ 
+参考时间: **每本2周** (小红书大部分人在2周内读完)
 
 
 * Operating Systems
