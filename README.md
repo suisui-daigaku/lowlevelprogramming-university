@@ -58,13 +58,14 @@ You'll get better and better with experience.
 
 Let me introduce several books that I've read. They are commonly used as textbooks in universities. If there is no class with these books in your university, it's worth spending some time reading them.
 * Computer Architecture
-  * Computer Architecture, Fifth Edition: A Quantitative Approach
-  * Computer Systems: A Programmer's Perspective
-  * Computer Organization and Design, Fourth Edition: The Hardware/Software Interface
+  * _Computer Architecture, Fifth Edition: A Quantitative Approach_
+  * _Computer Systems: A Programmer's Perspective_
+  * _Computer Organization and Design, Fourth Edition: The Hardware/Software Interface_
 * Operating Systems
   * The Magic Garden Explained: The Internals of UNIX System V Release 4 an Open Systems Design
   * The Design of the UNIX Operating System
   * Operating Systems: Internals and Design Principles by William Stallings
+  * Operating Systems: Three Steps
 * Recommended Courses
    * [CS401: Operating Systems from saylor.org](https://learn.saylor.org/course/view.php?id=94)
 * General Programming Skill
